@@ -1,2 +1,2 @@
-# Hackintool-EFI-lib
-Novice, don't spray
+#成绩多功能管理系统
+
